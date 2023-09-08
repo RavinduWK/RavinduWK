@@ -70,10 +70,11 @@ A web based application with an admin panel for post office operations, mobile a
 <img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
 <br />
+<br />
+<br />
+<br />
 
-
-
-### I’m looking to collaborate on Web and Android based projects and Data Science related projects.
+### I’m looking to collaborate on Web and Mobile(Android) application based projects.
 
 <br/>
 
