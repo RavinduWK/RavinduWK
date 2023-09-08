@@ -1,7 +1,6 @@
 ![Design and Development](https://github.com/RavinduWK/RavinduWK/blob/main/Banner_2.png)
 
 ### Hi there 👋, I'm Ravindu Wickramage
-I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of Moratuwa, following Computer Science and Engineering. I really enjoy learning languages and frameworks like React NodeJS and React Native. I also enjoy prototyping , ui, ux and design in general. 
 
 - 🧑🏻 I'm a fullstack developer using React, HTML/CSS.JS. NodeJS
 - 📧 How to reach me: ravinduyasiska@gmail.com
@@ -12,13 +11,11 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ravindu-wickramage/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ravindu-wickramage/#gh-dark-mode-only)
-&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/ravindu-wickramage"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:ravinduyasiska@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" /> </a>
 
 
-
-## 💻 Skills and Experience
+##  Skills and Experience
 
 **Frontend Technologies**  :-------   React, NodeJS, PHP              
 **Backend Technologies**   :--------   React Native, Flutter           
@@ -32,7 +29,7 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 
 <br>
 
-<h2>🧰 Languages and tools</h2>
+<h2> Languages and tools</h2>
 
 
 <img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
