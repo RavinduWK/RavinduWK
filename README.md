@@ -10,7 +10,7 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 Frontend Technologies : React
 
 <img align="left" alt="Nodejs" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img align="left" alt="Nodejs" width="20px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)"/>
+<img align="left" alt="Nodejs" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 Backend Technologies: Node.js, PHP
 
 <img align="left" alt="Flutter" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />          
@@ -28,7 +28,7 @@ Version Controling : Git GitHub
 
 <img align="left" alt="VsCode" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="intellij" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img align="left" alt="intellij" width="20px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg)" />
+<img align="left" alt="intellij" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
 IDE's: VS Code, Intellij, Pycharm
 
 <img align="left" alt="Figma" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
