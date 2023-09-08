@@ -17,6 +17,7 @@
 ![HitCount](https://hits.dwyl.com/RavinduWK/RavinduWK.svg?style=flat-square) &nbsp; <a href="https://github.com/RavinduWK?tab=followers"><img src="https://img.shields.io/github/followers/RavinduWK?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
+<br/>
 
 ##  Skills and Experience
 
@@ -61,11 +62,18 @@
 <br />
 <br /> 
 
- <h2>⚡ Stats<h2>
- 
+## Ongoing Projects
+
+#### Post Office MIS 
+A web based application with an admin panel for post office operations, mobile app for postmen, and a client web application
+
+<img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduWK&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
+
+### I’m looking to collaborate on Web and Android based projects and Data Science related projects.
 
 <br/>
 
