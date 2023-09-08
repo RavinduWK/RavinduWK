@@ -14,6 +14,10 @@
 <a href = "https://www.linkedin.com/in/ravindu-wickramage"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:ravinduyasiska@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" /> </a>
 
+## ![HitCount](https://hits.dwyl.com/RavinduWK/RavinduWK.svg?style=flat-square
+
+<a href="https://github.com/RavinduWK?tab=followers"><img src="https://img.shields.io/github/followers/RavinduWK?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 ##  Skills and Experience
 
@@ -27,10 +31,7 @@
 **Graphic Designing**      :------------   Adobe Photoshop                 
 
 
-<br>
-
 <h2> Languages and tools</h2>
-
 
 <img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
