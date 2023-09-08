@@ -4,14 +4,18 @@
 I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of Moratuwa, following Computer Science and Engineering. I really enjoy learning languages and frameworks like React NodeJS and React Native. I also enjoy prototyping , ui, ux and design in general. 
 
 ## Skills and Experience
-* **Frontend Technologies:**  React, NodeJS, PHP
-* **Backend Technologies:**        React Native, Flutter
-* **Databases:**         MySQL, MongoDB, Firebase
-* **Mobile app development:**  HTML, CSS, JS
-* **Version Controlling:**    Git, GitHub
-* **IDE's:**            VS Code, IntelliJ, Pycharm
-* **Design and Prototyping:**   Figma
-* **Graphic Designing:**     Adobe Photoshop
+
+| **Skills**                 | **Technologies/Tools**          |
+|----------------------------|---------------------------------|
+| **Frontend Technologies**  | React, NodeJS, PHP              |
+| **Backend Technologies**   | React Native, Flutter           |
+| **Databases**              | MySQL, MongoDB, Firebase        |
+| **Mobile app development** | HTML, CSS, JS                   |
+| **Version Controlling**    | Git, GitHub                     |
+| **IDE's**                  | VS Code, IntelliJ, Pycharm      |
+| **Design and Prototyping** | Figma                            |
+| **Graphic Designing**      | Adobe Photoshop                 |
+
 
 
 <br>
