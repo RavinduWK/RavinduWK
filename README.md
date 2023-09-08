@@ -7,7 +7,7 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 * ⚛ React
 * 📱 React Native, Flutter
 * 💻 HTML, CSS, JS
-<img width="50" height="50" src="https://img.icons8.com/ios/50/database--v1.png" alt="database--v1"/>
+* <img width="30" height="30" src="https://img.icons8.com/ultraviolet/40/database.png" alt="database"/>
 
 
  
