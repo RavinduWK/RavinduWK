@@ -25,9 +25,9 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 **Databases**              :---------------------   MySQL, MongoDB, Firebase        
 **Mobile app development** :----   HTML, CSS, JS                   
 **Version Controlling**    :-----------   Git, GitHub                     
-**IDE's**                  :-----------------------------   VS Code, IntelliJ, Pycharm      
+**IDE's**                  :----------------------------   VS Code, IntelliJ, Pycharm      
 **Design and Prototyping** :------   Figma                           
-**Graphic Designing**      :---------- --   Adobe Photoshop                 
+**Graphic Designing**      :------------   Adobe Photoshop                 
 
 
 <br>
@@ -44,6 +44,7 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 <img align="left" alt="Flutter" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Mysql" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="MongoDB" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<br/>
 <img align="left" alt="Firebase" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img align="left" alt="WordPress" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Git" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -52,7 +53,6 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 <img align="left" alt="Figma" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="VsCode" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="intellij" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<br>
 <img align="left" alt="Pycharm" width="26px" style="vertical-align:middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
 <img align="left" alt="Tailwind" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
