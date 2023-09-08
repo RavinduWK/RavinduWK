@@ -4,33 +4,16 @@
 I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of Moratuwa, following Computer Science and Engineering. I really enjoy learning languages and frameworks like React NodeJS and React Native. I also enjoy prototyping , ui, ux and design in general. 
 
 ## Skills and Experience
-* ⚛ React
-* 📱 React Native, Flutter
-* 💻 HTML, CSS, JS
-* <img width="30" height="30" src="https://img.icons8.com/ultraviolet/40/database.png" alt="database"/>
+* **Frontend Technologies**:  React, NodeJS, PHP
+* Backend Technologies:  React Native, Flutter
+* Databases: MySQL, MongoDB, Firebase
+* Mobile app development: HTML, CSS, JS
+* Version Controlling: Git, GitHub
+* IDE's: VS Code, IntelliJ, Pycharm
+* Design and Prototyping: Figma
+* Graphic Designing: Adobe Photoshop
 
-
- 
-
-
-
-
-
-
-
-
-
-Database: MySQL, MongoDB, Firebase
-
-
-Version Controlling : Git, GitHub
-
-
-IDE's: VS Code, IntelliJ, Pycharm
-
-Design and Prototyping: Figma
-
-Graphic Designing: Adobe Photoshop
+<br>
 
 <h2>🧰 Languages and tools</h2>
 
@@ -42,15 +25,12 @@ Graphic Designing: Adobe Photoshop
 <img align="left" alt="NodeJS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="PHP" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Flutter" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-
 <img align="left" alt="Mysql" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="MongoDB" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Firebase" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-
 <img align="left" alt="WordPress" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Git" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
 <img align="left" alt="Bootstrap" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Figma" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="VsCode" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
