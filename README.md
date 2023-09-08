@@ -5,7 +5,7 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 
 ## Skills and Experience
 * **Frontend Technologies:**  React, NodeJS, PHP
-* **Backend Technologies:**   React Native, Flutter
+* **Backend Technologies:** React Native, Flutter
 * **Databases:**         MySQL, MongoDB, Firebase
 * **Mobile app development:**  HTML, CSS, JS
 * **Version Controlling:**    Git, GitHub
@@ -36,6 +36,7 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 <img align="left" alt="Figma" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="VsCode" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="intellij" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<br>
 <img align="left" alt="Pycharm" width="26px" style="vertical-align:middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
 <img align="left" alt="Tailwind" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
