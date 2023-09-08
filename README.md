@@ -59,7 +59,8 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 <img align="left" alt="Pycharm" width="26px" style="vertical-align:middle; margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
 <img align="left" alt="Tailwind" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
-
+<br/>
+<br/>
 <br />
 <br /> 
 
