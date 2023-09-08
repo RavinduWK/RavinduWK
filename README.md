@@ -3,9 +3,22 @@
 ### Hi there 👋, I'm Ravindu Wickramage
 I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of Moratuwa, following Computer Science and Engineering. I really enjoy learning languages and frameworks like React NodeJS and React Native. I also enjoy prototyping , ui, ux and design in general. 
 
-## Skills and Experience
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love to draw and play guitar / drums
+- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
-| **Skills**                 | **Technologies/Tools**          |
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/RavinduWK#gh-light-mode-only)
+&nbsp;&nbsp;
+
+
+
+## 💻 Skills and Experience
+
 |----------------------------|---------------------------------|
 | **Frontend Technologies**  | React, NodeJS, PHP              |
 | **Backend Technologies**   | React Native, Flutter           |
@@ -15,7 +28,6 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 | **IDE's**                  | VS Code, IntelliJ, Pycharm      |
 | **Design and Prototyping** | Figma                            |
 | **Graphic Designing**      | Adobe Photoshop                 |
-
 
 
 <br>
