@@ -6,11 +6,11 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 #### Skills and Experience
 </p>
 
-<img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+<img align="left" alt="React" width="20px" style="padding-right:10px padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
 Frontend Technologies : React
 
 <img align="left" alt="Nodejs" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img align="left" alt="Nodejs" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="left" alt="PHP" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 Backend Technologies: Node.js, PHP
 
 <img align="left" alt="Flutter" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />          
