@@ -3,33 +3,33 @@
 ### Hi there 👋, I'm Ravindu Wickramage
 I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of Moratuwa, following Computer Science and Engineering. I really enjoy learning languages and frameworks like React NodeJS and React Native. I also enjoy prototyping , ui, ux and design in general. 
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🧑🏻 I'm a fullstack developer using React, HTML/CSS.JS. NodeJS
+- 📧 How to reach me: ravinduyasiska@gmail.com
+- 📫 You can also connect with me on my linkedin
+- 🌱 I’m currently a computer science engineering undergraduate 
+- 📗 My hobbies include reading books, watching movies
+
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/RavinduWK#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/RavinduWK#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ravindu-wickramage/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ravindu-wickramage/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
 
 ## 💻 Skills and Experience
 
-| **Skills**                 | **Technologies/Tools**          |
-|----------------------------|---------------------------------|
-| **Frontend Technologies**  | React, NodeJS, PHP              |
-| **Backend Technologies**   | React Native, Flutter           |
-| **Databases**              | MySQL, MongoDB, Firebase        |
-| **Mobile app development** | HTML, CSS, JS                   |
-| **Version Controlling**    | Git, GitHub                     |
-| **IDE's**                  | VS Code, IntelliJ, Pycharm      |
-| **Design and Prototyping** | Figma                           |
-| **Graphic Designing**      | Adobe Photoshop                 |
+| **Skills**                 | **Technologies/Tools**            |
+|----------------------------|-----------------------------------|
+| **Frontend Technologies**  |   React, NodeJS, PHP              |
+| **Backend Technologies**   |   React Native, Flutter           |
+| **Databases**              |   MySQL, MongoDB, Firebase        |
+| **Mobile app development** |   HTML, CSS, JS                   |
+| **Version Controlling**    |   Git, GitHub                     |
+| **IDE's**                  |   VS Code, IntelliJ, Pycharm      |
+| **Design and Prototyping** |   Figma                           |
+| **Graphic Designing**      |   Adobe Photoshop                 |
 
 
 <br>
