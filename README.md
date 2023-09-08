@@ -5,7 +5,7 @@ I'm Ravindu Wickramage from Sri Lanka, and Im an undergraduate at University of 
 
 ## Skills and Experience
 * **Frontend Technologies:**  React, NodeJS, PHP
-* **Backend Technologies:** React Native, Flutter
+* **Backend Technologies:**  React Native, Flutter
 * **Databases:**         MySQL, MongoDB, Firebase
 * **Mobile app development:**  HTML, CSS, JS
 * **Version Controlling:**    Git, GitHub
