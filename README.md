@@ -1,9 +1,9 @@
 ![Design and Development](https://github.com/RavinduWK/RavinduWK/blob/main/Banner_2.png)
 
 ### Hi there 👋, I'm Ravindu Wickramage
-
+- 🌐 Visit my portfolio website: https://ravinduwk.github.io/my_portfolio/ 
 - 🧑🏻 I'm a fullstack developer using React, HTML/CSS.JS. NodeJS
-- 📧 How to reach me: ravinduyasiska@gmail.com
+- 📧 How to reach me: ravinduw.20@cse.mrt.ac.lk
 - 📫 You can also connect with me on my linkedin
 - 🌱 I’m currently a computer science engineering undergraduate 
 - 📗 My hobbies include reading books, watching movies
