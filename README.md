@@ -62,13 +62,6 @@
 <br />
 <br /> 
 
-<div align="center">
-  <h2 align=left>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RavinduWK/RavinduWK/output/github-contribution-grid-snake-dark.svg" />
-  
-</div>
-
 ## Ongoing Projects
 
 #### Post Office MIS 
